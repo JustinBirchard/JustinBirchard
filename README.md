@@ -12,8 +12,8 @@ Eternally learning Python, SQL, and other tech. Creating as much as possible alo
 Growing trees and vegatables. Investing. Writing songs, playing shows, and recording bands.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://facingwinter.com/misc2022/smelloscope(1).png">
-  <source media="(prefers-color-scheme: light)" srcset="https://facingwinter.com/misc2022/smelloscope(1).png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://facingwinter.com/misc2022/smelloscope.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://facingwinter.com/misc2022/smelloscope.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://facingwinter.com/misc2022/smelloscope.png">
 </picture>
 <br><br>
