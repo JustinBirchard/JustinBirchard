@@ -9,7 +9,7 @@
 <br><br>
 
 Eternally learning Python, SQL, and other tech. Creating as much as possible along the way.<br>
-Growing trees and vegatables. Investing. Writing songs, playing shows, and recording bands.
+Growing trees and vegetables. Investing. Writing songs, playing shows, and recording bands.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://facingwinter.com/misc2022/smelloscope1.png">
