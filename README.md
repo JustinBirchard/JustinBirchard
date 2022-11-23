@@ -2,12 +2,11 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://facingwinter.com/misc2022/backyard_summer_2022(6).png">
-  <source media="(prefers-color-scheme: light)" srcset="https://facingwinter.com/misc2022/backyard_summer_2022(6).png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://facingwinter.com/misc2022/backyard_summer_2022.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://facingwinter.com/misc2022/backyard_summer_2022_small.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://facingwinter.com/misc2022/backyard_summer_2022_small.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://facingwinter.com/misc2022/backyard_summer_2022_small.png">
 </picture>
-
-Our backyard is small, but we make the most of it.
+<br><br>
 
 Always learning Python and SQL. 
 
@@ -15,14 +14,15 @@ Creating as much as possible along the way.
 
 I write songs, play shows, and record bands in my studio.
 
-💬 Ask me about [The Smelloscope](https://github.com/JustinBirchard/smelloscope)
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://facingwinter.com/misc2022/smelloscope(1).png">
   <source media="(prefers-color-scheme: light)" srcset="https://facingwinter.com/misc2022/smelloscope(1).png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://facingwinter.com/misc2022/smelloscope(1).png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://facingwinter.com/misc2022/smelloscope.png">
 </picture>
+<br><br>
+
+💬 Ask me about [The Smelloscope](https://github.com/JustinBirchard/smelloscope)<br>
+📫 How to reach me: thesmelloscope@gmail.com
 
 <!--
 
