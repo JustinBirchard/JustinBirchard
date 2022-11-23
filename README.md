@@ -1,22 +1,27 @@
 #### My view while noodling in VS Code on a nice summer afternoon near Chicago.
-##### Our backyard is small, but we make the most of it.
+
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://facingwinter.com/misc2022/backyard_summer_2022(4).png">
-  <source media="(prefers-color-scheme: light)" srcset="https://facingwinter.com/misc2022/backyard_summer_2022(4).png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://facingwinter.com/misc2022/backyard_summer_2022(6).png">
+  <source media="(prefers-color-scheme: light)" srcset="https://facingwinter.com/misc2022/backyard_summer_2022(6).png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://facingwinter.com/misc2022/backyard_summer_2022.png">
 </picture>
 
-Always learning Python and SQL. Creating as much as possible along the way.
+Our backyard is small, but we make the most of it.
+
+Always learning Python and SQL. 
+
+Creating as much as possible along the way.
 
 I write songs, play shows, and record bands in my studio.
 
 💬 Ask me about [The Smelloscope](https://github.com/JustinBirchard/smelloscope)
 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://facingwinter.com/misc2022/smelloscope.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://facingwinter.com/misc2022/smelloscope.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://facingwinter.com/misc2022/backyard_summer_2022.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://facingwinter.com/misc2022/smelloscope(1).png">
+  <source media="(prefers-color-scheme: light)" srcset="https://facingwinter.com/misc2022/smelloscope(1).png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://facingwinter.com/misc2022/smelloscope(1).png">
 </picture>
 
 <!--
