@@ -8,11 +8,9 @@
 </picture>
 <br><br>
 
-Always learning Python and SQL. 
+Eternally learning Python, SQL, and other tech. Creating as much as possible along the way.
 
-Creating as much as possible along the way.
-
-I write songs, play shows, and record bands in my studio.
+Growing trees and vegatables. Investing. Writing songs, playing shows, and recording bands.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://facingwinter.com/misc2022/smelloscope(1).png">
