@@ -8,7 +8,7 @@
 </picture>
 <br><br>
 
-Eternally learning Python, SQL, and other tech. Creating as much as possible along the way.<br>
+Always learning Python, SQL, and other tech. Creating as much as possible along the way.<br>
 Growing trees and vegetables. Investing. Writing songs, playing shows, and recording bands.
 
 <picture>
